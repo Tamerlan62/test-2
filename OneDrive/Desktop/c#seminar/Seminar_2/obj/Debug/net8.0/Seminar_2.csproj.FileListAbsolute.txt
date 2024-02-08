@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\Seminar_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\Seminar_2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\Seminar_2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\Seminar_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\bin\Debug\net8.0\Seminar_2.exe
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\bin\Debug\net8.0\Seminar_2.deps.json
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\bin\Debug\net8.0\Seminar_2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\bin\Debug\net8.0\Seminar_2.dll
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\bin\Debug\net8.0\Seminar_2.pdb
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\Seminar_2.dll
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\refint\Seminar_2.dll
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\Seminar_2.pdb
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\Seminar_2.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Seminar_2\obj\Debug\net8.0\ref\Seminar_2.dll
