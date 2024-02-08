@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\bin\Debug\net8.0\Massiv_Seminar.exe
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\bin\Debug\net8.0\Massiv_Seminar.deps.json
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\bin\Debug\net8.0\Massiv_Seminar.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\bin\Debug\net8.0\Massiv_Seminar.dll
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\bin\Debug\net8.0\Massiv_Seminar.pdb
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\Massiv_Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\Massiv_Seminar.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\Massiv_Seminar.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\Massiv_Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\Massiv_Seminar.dll
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\refint\Massiv_Seminar.dll
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\Massiv_Seminar.pdb
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\Massiv_Seminar.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\c#seminar\Massiv_Seminar\obj\Debug\net8.0\ref\Massiv_Seminar.dll
