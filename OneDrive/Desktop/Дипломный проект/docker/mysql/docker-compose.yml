@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: rootparol
+      MYSQL_DATABASE: InsanDostlari
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./docker/mysql/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 5s
+      timeout: 10s
+      retries: 5
+
+  app:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: hayvan_qeydiyyati
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      MYSQL_HOST: mysql
+      MYSQL_USER: root
+      MYSQL_PASSWORD: rootparol
+      MYSQL_DATABASE: InsanDostlari
+      PYTHONPATH: /app
+    volumes:
+      - ./src:/app/src
+    stdin_open: true
+    tty: true
+    # Əgər proqram dərhal çıxış edirsə, bu sətri əlavə edin
+    command: tail -f /dev/null
+
+volumes:
+  mysql_data:

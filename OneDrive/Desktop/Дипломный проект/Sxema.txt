@@ -1,0 +1,27 @@
+py/
+├── docker/
+│   ├── Dockerfile
+│   └── mysql/
+│       └── init.sql
+├── src/
+│   ├── __init__.py  # ВАЖНЫЙ - пустой файл
+│   ├── main.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── animal.py
+│   │   ├── domestic_animals.py
+│   │   └── pack_animals.py
+│   ├── database/
+│   │   ├── __init__.py
+│   │   ├── connector.py
+│   │   └── setup.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── animal_service.py
+│   │   └── linux_service.py
+│   └── utils/
+│       ├── __init__.py
+│       └── counter.py
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
